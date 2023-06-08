@@ -1,0 +1,324 @@
+,Country,Year,nums
+0,Algeria,1999,84
+1,Algeria,2000,96
+2,Algeria,2001,125
+3,Algeria,2002,85
+4,Algeria,2003,72
+5,Algeria,2004,62
+6,Algeria,2005,73
+7,Algeria,2006,73
+8,Algeria,2007,80
+9,Algeria,2008,80
+10,Algeria,2009,85
+11,Algeria,2010,77
+12,Algeria,2011,73
+13,Algeria,2012,72
+14,Algeria,2013,75
+15,Algeria,2014,84
+16,Algeria,2015,91
+17,Benin,1999,37
+18,Benin,2000,38
+19,Benin,2001,52
+20,Benin,2002,34
+21,Benin,2003,36
+22,Benin,2004,54
+23,Benin,2005,43
+24,Benin,2006,44
+25,Benin,2007,46
+26,Benin,2008,49
+27,Benin,2009,54
+28,Benin,2010,55
+29,Benin,2011,49
+30,Benin,2012,50
+31,Benin,2013,58
+32,Benin,2014,58
+33,Benin,2015,55
+34,Botswana,1999,39
+35,Botswana,2000,42
+36,Botswana,2001,43
+37,Botswana,2002,22
+38,Botswana,2003,23
+39,Botswana,2004,34
+40,Botswana,2005,37
+41,Botswana,2006,36
+42,Botswana,2007,37
+43,Botswana,2008,34
+44,Botswana,2009,44
+45,Botswana,2010,47
+46,Botswana,2011,46
+47,Botswana,2012,43
+48,Botswana,2013,54
+49,Botswana,2014,49
+50,Botswana,2015,38
+51,Burkina Faso,1999,38
+52,Burkina Faso,2000,44
+53,Burkina Faso,2001,60
+54,Burkina Faso,2002,42
+55,Burkina Faso,2003,34
+56,Burkina Faso,2004,39
+57,Burkina Faso,2005,32
+58,Burkina Faso,2006,42
+59,Burkina Faso,2007,44
+60,Burkina Faso,2008,48
+61,Burkina Faso,2009,48
+62,Burkina Faso,2010,39
+63,Burkina Faso,2011,52
+64,Burkina Faso,2012,51
+65,Burkina Faso,2013,48
+66,Burkina Faso,2014,52
+67,Burkina Faso,2015,68
+68,Ethiopia,1999,101
+69,Ethiopia,2000,135
+70,Ethiopia,2001,165
+71,Ethiopia,2002,101
+72,Ethiopia,2003,94
+73,Ethiopia,2004,138
+74,Ethiopia,2005,101
+75,Ethiopia,2006,120
+76,Ethiopia,2007,110
+77,Ethiopia,2008,124
+78,Ethiopia,2009,152
+79,Ethiopia,2010,142
+80,Ethiopia,2011,88
+81,Ethiopia,2012,99
+82,Ethiopia,2013,108
+83,Ethiopia,2014,111
+84,Ethiopia,2015,107
+85,South Africa,1999,70
+86,South Africa,2000,90
+87,South Africa,2001,151
+88,South Africa,2002,80
+89,South Africa,2003,91
+90,South Africa,2004,80
+91,South Africa,2005,83
+92,South Africa,2006,74
+93,South Africa,2007,51
+94,South Africa,2008,85
+95,South Africa,2009,95
+96,South Africa,2010,76
+97,South Africa,2011,84
+98,South Africa,2012,81
+99,South Africa,2013,85
+100,South Africa,2014,104
+101,South Africa,2015,120
+102,Tanzania,1999,69
+103,Tanzania,2000,103
+104,Tanzania,2001,113
+105,Tanzania,2002,52
+106,Tanzania,2003,80
+107,Tanzania,2004,116
+108,Tanzania,2005,126
+109,Tanzania,2006,96
+110,Tanzania,2007,117
+111,Tanzania,2008,102
+112,Tanzania,2009,127
+113,Tanzania,2010,110
+114,Tanzania,2011,79
+115,Tanzania,2012,91
+116,Tanzania,2013,104
+117,Tanzania,2014,95
+118,Tanzania,2015,87
+119,Angola,1999,67
+120,Angola,2000,73
+121,Angola,2001,124
+122,Angola,2002,61
+123,Angola,2003,74
+124,Angola,2004,64
+125,Angola,2005,60
+126,Angola,2006,62
+127,Angola,2007,52
+128,Angola,2008,61
+129,Angola,2009,70
+130,Angola,2010,93
+131,Angola,2011,87
+132,Angola,2012,77
+133,Angola,2013,83
+134,Angola,2014,74
+135,Angola,2015,61
+136,Cape Verde,1999,21
+137,Cape Verde,2000,37
+138,Cape Verde,2001,35
+139,Cape Verde,2002,28
+140,Cape Verde,2003,25
+141,Cape Verde,2004,20
+142,Cape Verde,2005,22
+143,Cape Verde,2006,24
+144,Cape Verde,2007,20
+145,Cape Verde,2008,17
+146,Cape Verde,2009,23
+147,Cape Verde,2010,23
+148,Cape Verde,2011,31
+149,Cape Verde,2012,39
+150,Cape Verde,2013,40
+151,Cape Verde,2014,36
+152,Cape Verde,2015,28
+153,Central African Republic,1999,60
+154,Central African Republic,2000,65
+155,Central African Republic,2001,67
+156,Central African Republic,2002,70
+157,Central African Republic,2003,62
+158,Central African Republic,2004,59
+159,Central African Republic,2005,128
+160,Central African Republic,2006,129
+161,Central African Republic,2007,108
+162,Central African Republic,2008,107
+163,Central African Republic,2009,132
+164,Central African Republic,2010,115
+165,Central African Republic,2011,103
+166,Central African Republic,2012,104
+167,Central African Republic,2013,85
+168,Central African Republic,2014,77
+169,Central African Republic,2015,65
+170,Chad,1999,48
+171,Chad,2000,56
+172,Chad,2001,68
+173,Chad,2002,56
+174,Chad,2003,60
+175,Chad,2004,70
+176,Chad,2005,52
+177,Chad,2006,75
+178,Chad,2007,63
+179,Chad,2008,78
+180,Chad,2009,86
+181,Chad,2010,65
+182,Chad,2011,62
+183,Chad,2012,56
+184,Chad,2013,52
+185,Chad,2014,47
+186,Chad,2015,52
+187,Comoros,1999,21
+188,Comoros,2000,44
+189,Comoros,2001,43
+190,Comoros,2002,31
+191,Comoros,2003,26
+192,Comoros,2004,26
+193,Comoros,2005,23
+194,Comoros,2006,23
+195,Comoros,2007,28
+196,Comoros,2008,28
+197,Comoros,2009,26
+198,Comoros,2010,25
+199,Comoros,2011,23
+200,Comoros,2012,27
+201,Comoros,2013,24
+202,Comoros,2014,37
+203,Comoros,2015,28
+204,Democratic Republic Of The Congo,1999,152
+205,Democratic Republic Of The Congo,2000,184
+206,Democratic Republic Of The Congo,2001,154
+207,Democratic Republic Of The Congo,2002,143
+208,Democratic Republic Of The Congo,2003,128
+209,Democratic Republic Of The Congo,2004,170
+210,Democratic Republic Of The Congo,2005,155
+211,Democratic Republic Of The Congo,2006,134
+212,Democratic Republic Of The Congo,2007,141
+213,Democratic Republic Of The Congo,2008,154
+214,Democratic Republic Of The Congo,2009,246
+215,Democratic Republic Of The Congo,2010,192
+216,Democratic Republic Of The Congo,2011,130
+217,Democratic Republic Of The Congo,2012,108
+218,Democratic Republic Of The Congo,2013,94
+219,Democratic Republic Of The Congo,2014,89
+220,Democratic Republic Of The Congo,2015,114
+221,Djibouti,1999,69
+222,Djibouti,2000,60
+223,Djibouti,2001,64
+224,Djibouti,2002,55
+225,Djibouti,2003,38
+226,Djibouti,2004,41
+227,Djibouti,2005,45
+228,Djibouti,2006,45
+229,Djibouti,2007,30
+230,Djibouti,2008,34
+231,Djibouti,2009,60
+232,Djibouti,2010,61
+233,Djibouti,2011,65
+234,Djibouti,2012,60
+235,Djibouti,2013,66
+236,Djibouti,2014,74
+237,Djibouti,2015,63
+238,Egypt,1999,93
+239,Egypt,2000,97
+240,Egypt,2001,126
+241,Egypt,2002,105
+242,Egypt,2003,109
+243,Egypt,2004,110
+244,Egypt,2005,133
+245,Egypt,2006,133
+246,Egypt,2007,142
+247,Egypt,2008,117
+248,Egypt,2009,40
+249,Egypt,2010,97
+250,Egypt,2011,97
+251,Egypt,2012,116
+252,Egypt,2013,138
+253,Egypt,2014,146
+254,Egypt,2015,132
+255,Republic of Congo,1999,44
+256,Republic of Congo,2000,41
+257,Republic of Congo,2001,47
+258,Republic of Congo,2002,49
+259,Republic of Congo,2003,46
+260,Republic of Congo,2004,37
+261,Republic of Congo,2005,44
+262,Republic of Congo,2006,49
+263,Republic of Congo,2007,49
+264,Republic of Congo,2008,45
+265,Republic of Congo,2009,52
+266,Republic of Congo,2010,41
+267,Republic of Congo,2011,47
+268,Republic of Congo,2012,50
+269,Republic of Congo,2013,58
+270,Republic of Congo,2014,74
+271,Republic of Congo,2015,91
+272,Cameroon,1999,104
+273,Cameroon,2000,125
+274,Cameroon,2001,127
+275,Cameroon,2002,63
+276,Cameroon,2003,57
+277,Cameroon,2004,101
+278,Cameroon,2005,132
+279,Cameroon,2006,149
+280,Cameroon,2007,96
+281,Cameroon,2008,100
+282,Cameroon,2009,105
+283,Cameroon,2010,83
+284,Cameroon,2011,105
+285,Cameroon,2012,94
+286,Cameroon,2013,75
+287,Cameroon,2014,83
+288,Cameroon,2015,80
+289,Eritrea,1999,56
+290,Eritrea,2000,67
+291,Eritrea,2001,77
+292,Eritrea,2002,60
+293,Eritrea,2003,69
+294,Eritrea,2004,61
+295,Eritrea,2005,67
+296,Eritrea,2006,86
+297,Eritrea,2007,93
+298,Eritrea,2008,104
+299,Eritrea,2009,104
+300,Eritrea,2010,114
+301,Eritrea,2011,104
+302,Eritrea,2012,89
+303,Eritrea,2013,102
+304,Eritrea,2014,96
+305,Eritrea,2015,96
+306,Equatorial Guinea,1999,47
+307,Equatorial Guinea,2000,72
+308,Equatorial Guinea,2001,77
+309,Equatorial Guinea,2002,65
+310,Equatorial Guinea,2003,66
+311,Equatorial Guinea,2004,82
+312,Equatorial Guinea,2005,103
+313,Equatorial Guinea,2006,105
+314,Equatorial Guinea,2007,76
+315,Equatorial Guinea,2008,91
+316,Equatorial Guinea,2009,91
+317,Equatorial Guinea,2010,67
+318,Equatorial Guinea,2011,74
+319,Equatorial Guinea,2012,59
+320,Equatorial Guinea,2013,56
+321,Equatorial Guinea,2014,60
+322,Equatorial Guinea,2015,84
